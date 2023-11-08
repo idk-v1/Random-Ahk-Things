@@ -1,0 +1,1 @@
+^#t::Winset, AlwaysOnTop, Toggle, A
